@@ -1,0 +1,17 @@
+[
+  {
+    "label":"Instagram",
+    "icon":"@/assets/icons/instagram.svg",
+    "link":"https://instagram.com/wdevoficial"
+  }, 
+  {
+    "label":"Facebook",
+    "icon":"../assets/icons/facebook.svg",
+    "link":"https://facebook.com/wdevoficial"
+  },
+  {
+    "label":"Twitter",
+    "icon":"./assets/icons/twitter.svg",
+    "link":"https://twitter.com/wdevoficial"
+  }
+]
